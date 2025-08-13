@@ -79,7 +79,7 @@ class Program
 		static void LäsInFrånFil(Storage<Produkt> storage)
 		{
 			if(File.Exists("Bilregister.txt"))
-			{
+			{...
 				
 				
 
